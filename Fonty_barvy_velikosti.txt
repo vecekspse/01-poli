@@ -1,0 +1,21 @@
+My Little Poli
+==============
+
+# Typografie
+Použitý font je Arial
+
+Logo - 26px, 700
+Menu - 21px, 400
+
+Hlavní nadpisy - 30px, 700
+Ostatní text - 18px/16px, 400
+
+# Barvy
+Navigace - #5E1858
+Navigace text - #FFFFFF
+Charakteristika - #EBEAFA
+
+Nadpisy a ostatní text - #2D2746
+
+# Velikosti
+Šířka kontejneru - 1000px
